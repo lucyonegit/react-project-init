@@ -1,6 +1,6 @@
 
-import sagaaction from "../../actionType/sagaType"
-import * as actions from "../../actionType/actionType"
+// import sagaaction from "../../actionType/sagaType"
+// import * as actions from "../../actionType/actionType"
 import Immutable from "immutable";
 
 
